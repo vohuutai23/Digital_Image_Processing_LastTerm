@@ -43,4 +43,4 @@
 
 Chạy ứng dụng Streamlit:
 ```bash
-python -m streamlit run 1_🏠_Page_Main.py
+python -m streamlit run 1_🏠_Trang_Chủ.py
